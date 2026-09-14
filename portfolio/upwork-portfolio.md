@@ -49,7 +49,7 @@ These are implementation outcomes. Revenue, subscribers, conversion, and growth 
 
 ### Online demo
 
-Deployment URL will be inserted after Vercel deployment is verified.
+[Open the live MetricFlow demo](https://metricflow-dashboard-nine.vercel.app)
 
 ### GitHub
 

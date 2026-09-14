@@ -24,6 +24,7 @@ Verified locally on September 14, 2026.
 - Verified desktop layout at 1440px and mobile layout at 390px, including mobile navigation.
 - Fixed mobile document overflow caused by an absolutely positioned accessible table label; the page width then remained within the mobile viewport while its table scrolled inside its container.
 - Captured five screenshots from the production build and visually reviewed light and dark themes.
+- Verified the Vercel deployment at https://metricflow-dashboard-nine.vercel.app. All six application routes returned HTTP 200 and the live overview rendered correctly.
 
 ## Scope
 

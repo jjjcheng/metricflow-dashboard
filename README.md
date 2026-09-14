@@ -2,7 +2,7 @@
 
 A complete, interactive frontend portfolio project for subscription businesses. MetricFlow brings revenue, acquisition, customers, subscriptions, and invoices into one responsive workspace.
 
-[Source code on GitHub](https://github.com/jjjcheng/metricflow-dashboard)
+[Live demo](https://metricflow-dashboard-nine.vercel.app) · [Source code on GitHub](https://github.com/jjjcheng/metricflow-dashboard)
 
 ![MetricFlow overview](portfolio/screenshots/01-overview.jpg)
 
@@ -77,6 +77,8 @@ src/
 - In a production integration, replace the browser store with authenticated server APIs, a database, tenant authorization, and validated billing-provider webhooks. Those services are outside this frontend demo.
 
 ## Deploy to Vercel
+
+The live demo is hosted at [metricflow-dashboard-nine.vercel.app](https://metricflow-dashboard-nine.vercel.app). The initial deployment used Vercel's source archive import with the same application revision committed to GitHub. Automatic Git-triggered deployment requires the repository integration to be connected in Vercel.
 
 1. Push the repository to GitHub.
 2. Import that repository in Vercel and select the Next.js preset.
