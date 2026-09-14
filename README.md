@@ -2,6 +2,10 @@
 
 A complete, interactive frontend portfolio project for subscription businesses. MetricFlow brings revenue, acquisition, customers, subscriptions, and invoices into one responsive workspace.
 
+[Source code on GitHub](https://github.com/jjjcheng/metricflow-dashboard)
+
+![MetricFlow overview](portfolio/screenshots/01-overview.jpg)
+
 ## The project
 
 Built to demonstrate thoughtful interface design and practical React engineering: a consistent visual system, useful interactions, accessible dialogs, clear data presentation, and responsive layouts. All accounts and metrics are fictional. No authentication service, database, payment processor, or email provider is connected.

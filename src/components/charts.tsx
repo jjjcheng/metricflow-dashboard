@@ -311,9 +311,6 @@ export function PlanChart({ range }: { range: Range }) {
             )}
           </text>
         </svg>
-        <span className="donut-mini-badge">
-          <ArrowUpRight size={12} /> Healthy mix
-        </span>
       </div>
       <div className="plan-legend">
         {plans.map((p) => (

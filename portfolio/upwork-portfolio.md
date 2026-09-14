@@ -53,7 +53,7 @@ Deployment URL will be inserted after Vercel deployment is verified.
 
 ### GitHub
 
-Repository URL will be inserted after the GitHub push is verified.
+[MetricFlow on GitHub](https://github.com/jjjcheng/metricflow-dashboard)
 
 ## Screenshot order and captions
 
