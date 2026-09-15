@@ -26,6 +26,8 @@ Verified locally on September 14, 2026.
 - Captured five screenshots from the production build and visually reviewed light and dark themes.
 - Verified the Vercel deployment at https://metricflow-dashboard-nine.vercel.app. All six application routes returned HTTP 200 and the live overview rendered correctly.
 - Connected the existing Vercel project to `jjjcheng/metricflow-dashboard` on GitHub. The project settings confirmed “Connected Git Repository successfully.”
+- Verified automatic production deployment from GitHub commit `18c2452`: Vercel deployment `3J5RqSoU41zD5gtYQh3HgiLoftx8` reached Ready and served the existing demo domain.
+- Published the Upwork portfolio on September 15, 2026, and reopened it to verify five screenshots with captions, the full case study, five skills, and both external links. Portfolio: https://www.upwork.com/freelancers/~012708d6a9c9783c5b?p=2099667680128626688
 
 ## Scope
 

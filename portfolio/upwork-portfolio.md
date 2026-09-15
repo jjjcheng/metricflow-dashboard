@@ -1,5 +1,7 @@
 # Upwork portfolio copy
 
+Published on September 15, 2026: [View the Upwork portfolio project](https://www.upwork.com/freelancers/~012708d6a9c9783c5b?p=2099667680128626688). The published entry includes five screenshots, the project overview, responsibilities, technologies, results, live demo, and GitHub links.
+
 ## Project title
 
 MetricFlow | Next.js SaaS Dashboard & Customer Management
