@@ -25,6 +25,7 @@ Verified locally on September 14, 2026.
 - Fixed mobile document overflow caused by an absolutely positioned accessible table label; the page width then remained within the mobile viewport while its table scrolled inside its container.
 - Captured five screenshots from the production build and visually reviewed light and dark themes.
 - Verified the Vercel deployment at https://metricflow-dashboard-nine.vercel.app. All six application routes returned HTTP 200 and the live overview rendered correctly.
+- Connected the existing Vercel project to `jjjcheng/metricflow-dashboard` on GitHub. The project settings confirmed “Connected Git Repository successfully.”
 
 ## Scope
 

@@ -78,7 +78,7 @@ src/
 
 ## Deploy to Vercel
 
-The live demo is hosted at [metricflow-dashboard-nine.vercel.app](https://metricflow-dashboard-nine.vercel.app). The initial deployment used Vercel's source archive import with the same application revision committed to GitHub. Automatic Git-triggered deployment requires the repository integration to be connected in Vercel.
+The live demo is hosted at [metricflow-dashboard-nine.vercel.app](https://metricflow-dashboard-nine.vercel.app). The Vercel project is connected to `jjjcheng/metricflow-dashboard` on GitHub for automatic deployments. The initial release used Vercel's source archive import; subsequent releases use the connected repository.
 
 1. Push the repository to GitHub.
 2. Import that repository in Vercel and select the Next.js preset.
